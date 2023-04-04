@@ -1,3 +1,5 @@
+![Akshay's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhideakshay&show_icons=true&theme=transparent)
+
 <h1 align="center">Hi 👋, I'm Akshay Bhide</h1>
 <h3 align="center">A backend developer with extensive experience in various projects using Django, Python, MySQL & Git.</h3>
 
