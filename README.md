@@ -1,10 +1,12 @@
-![Akshay's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhideakshay&show_icons=true&theme=transparent)
+
 
 <h1 align="center">Hi 👋, I'm Akshay Bhide</h1>
 <h3 align="center">A backend developer with extensive experience in various projects using Django, Python, MySQL & Git.</h3>
 
-<img align="center" alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
+<br>
+<img align="center" alt="Coder GIF" width="40%" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif"><br><br>
 
+<br><br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/bhide_akshay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bhide_akshay" height="30" width="40" /></a>
